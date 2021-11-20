@@ -1,4 +1,5 @@
-- ![image](https://user-images.githubusercontent.com/89829434/142730596-c51d1f05-e34d-4eac-8428-924967c0404f.png)
+- ![coding](https://user-images.githubusercontent.com/89829434/142730630-133b0262-013f-4a1a-abe9-6d269e4b1eff.gif)
+
 - 👋 Hi, I’m @arsh-meharwal
 - 👀 I’m a Web Dev Enthusiast..
 - 🌱 HTML5, CSS, Javascript, Node JS...
