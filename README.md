@@ -1,3 +1,5 @@
+- ![talk-show](https://user-images.githubusercontent.com/89829434/142730531-54dca959-575c-44c7-a5ed-6f3dc5ff2cc9.gif)
+
 - 👋 Hi, I’m @arsh-meharwal
 - 👀 I’m a Web Dev Enthusiast..
 - 🌱 HTML5, CSS, Javascript, Node JS...
